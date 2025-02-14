@@ -11,7 +11,7 @@ Current Issues:
  - The program minimizes when the ESC key is pressed, leaving the application
 unusable as it cannot be maximized
  - The program doesn't addapt well to different screen sizes. It can be
-improved to more responsive
+improved to be more responsive
 
 Notes:
  - AimTrainer.java contains the main logic of the program
